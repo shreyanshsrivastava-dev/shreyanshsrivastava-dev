@@ -18,7 +18,7 @@ I don't just build websites or WebApplications; I architect **Smart Ecosystems**
 | :--- | :--- |
 | **Backend** | Python (Expert), Django, Django REST Framework, AI Integration |
 | **Frontend** | JavaScript (ES6+), HTML5, CSS3, Tailwind, Bootstrap, React(Learning) | 
-| **Database/Tools** | PostgreSQL, DB.Sqlite Git/GitHub, Linux (PythonAnywhere) |
+| **Database/Tools** | PostgreSQL, db.Sqlite, Git/GitHub, Linux (PythonAnywhere) |
 | **Research** | Technical Research Analysis, Complex System Architecture |
 
 ---
