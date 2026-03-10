@@ -41,7 +41,7 @@ I don't just build websites or WebApplications; I architect **Smart Ecosystems**
 
 ### 🔗 Let's Connect
 - 🌐 **Portfolio:** [shreyanshdev.pythonanywhere.com](https://shreyanshdev.pythonanywhere.com/)
-- 💼 **LinkedIn:** [in/shreyansh-srivastava-192780290](https://www.linkedin.com/in/shreyansh-srivastava-192780290)
+- 💼 **LinkedIn:** [in/shreyanshsrivastava-dev](https://www.linkedin.com/in/shreyanshsrivastava-dev)
 - 📧 **Email:** [shreyansh.devd@gmail.com](mailto:shreyansh.devd@gmail.com)
 - 📍 **Location:** Lucknow, India
 
