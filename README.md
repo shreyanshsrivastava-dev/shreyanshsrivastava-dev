@@ -1,6 +1,6 @@
 # 👨‍💻 Shreyansh Srivastava | Full-Stack Python & Django Architect
 
-I am a **Full-Stack Developer**, **Ai Researcher/Learner**, **Building complex, multi-user management systems (ERP/SaaS style) using Python and Django.** and dedicated to delivering innovative Python and Django solutions. My expertise lies in building large-scale, role-based management systems that drive digital transformation for complex industries and currently researching on the working of **LLM's** and **RLM's**.
+I am a **Full-Stack Developer**, **Ai Researcher/Learner**, **Building complex, multi-user management systems (ERP/SaaS style) using Python and Django.** and dedicated to delivering innovative Python and Django solutions. My expertise lies in building large-scale, role-based management systems that drive digital transformation for complex industries and **"currently researching the mechanics of LLMs and Large Reasoning Models (LRMs)".**
 
 ---
 
